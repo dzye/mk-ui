@@ -1,4 +1,4 @@
-import { MkButton } from "@mk-ui/components";
+import { MkButton,MkIcon } from "@mk-ui/components";
 import type { Plugin } from "vue";
 
-export default [MkButton] as Plugin[];
+export default [MkButton, MkIcon] as Plugin[];
